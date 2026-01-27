@@ -1,0 +1,5 @@
+Con blade: http://proyecto-curso.test/posts
+
+Con Api de React desde Laravel: http://proyecto-curso.test/api/posts
+
+Con React directamente desde el navegador: http://localhost:5173/ (debes correr primero <npm run dev> para que se inicie el Node.js)

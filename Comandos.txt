@@ -1,0 +1,7 @@
+*Limpiar cache de Artisan: php artisan config: clear
+
+*Realizar migraciones en Laravel (Cambios en la bd): php artisan migrate
+
+*Creacion de Modelo llamdo Post para interactuar con la bd a traves de ORM Eloquent: php artisan make:model Post -m
+
+*Creacion de controlador tipo Recurso para manejar peticiones HTTP del modelo Post: php artisan make:controller PostController --resource
